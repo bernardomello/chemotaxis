@@ -1,0 +1,36 @@
+#Time 2017-06-13 07:46:17
+#N 64
+#M 4
+#symmetry 4
+#mutant 34
+#numQ 1
+#eta 0
+#g 0
+#K [   18.2  3033. ]
+#C -2.7177580547109073
+#kr 0.7361214824461519
+#kb 1.4
+#L 0.0833333333333
+#alpha -2.6190147420200844
+#alpha0 0
+#m0 0.9180804373823774
+#nMetroSteps 200
+#dt 0.1
+#nScans 5
+#nAverage 10
+#maxXi 0.2
+#Lini 1
+#Lfim 10000
+#fatorL 3.1622776601683795
+#deltaLResp 0.2
+#LdeltaT 10
+#flutacaoLdeltaT 2
+#gravaDetalhesMetilizacao 1
+#sequentialMet 1
+#K1 3033.0
+#gamma 9.90927239327
+#K0 18.2
+#xi 0.13977276079
+#act 0.336711542039
+#scanType fittestsearch
+
